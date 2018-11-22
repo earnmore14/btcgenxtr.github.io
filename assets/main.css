@@ -1,16 +1,16 @@
-/* #E3DFBA,#C8D6BF,#93ccc6,#6CBDB5,#1A1F1E,#E3DFBA,#C8D6BF,#93CCC6  */
+/* #E3DFBA,#C8D6BF,#a6cf97,#84c271,#1A1F1E,#E3DFBA,#C8D6BF,#9ecf97  */
 :root{
     --main-bg-color:#F7f7f7;
-    --dark-bg:#354267;
-    --medium-bg:#6182C9 ;
-    --medium-bg-fg:#506BA6;
+    --dark-bg:#386b3d;
+    --medium-bg:#115926 ;
+    --medium-bg-fg:#52a861;
     --medium-bg-fos:#F9f9f9;
     --medium-grey:#5E5E5E ;
     --medium-under-bg:#506BA6 ;
     --medium-under-grey:#525252 ;
     --medium-high-grey:#636363 ;
     --alt-medium-bg:#F7882F;
-    --sec-bg:#6550A6;
+    --sec-bg:#55ab55;
     --error-medium-bg:#e36e6e;
     --medium-fg:#FFFBEB;
     --medium-fg-fos:#444;
@@ -18,7 +18,7 @@
     --font-on-light:#fff;
     --font-on-norm:#444;
     --container-bg:rgba(255,255,255,0.4);
-    --button-highlight:#6688D4;
+    --button-highlight:#69d68d;
 
     --bottom-top:rgba(0,0,0,0.2);
 }
@@ -48,7 +48,7 @@ body,html{
     margin:0px;
     font-family:'Roboto',arial;
 
-    background:#5876b7  url("img/bg7.png");
+    background:#63a653  url("img/bg7.png");
 }
 *{
     box-sizing:border-box;
@@ -657,7 +657,7 @@ h4{
     word-break:break-all;
 }
 #term-emu b{
-    color:#b5bd68;
+    color:#8fc26d;
 }
 #term-emu span{
     color:#cc6666;
@@ -668,7 +668,7 @@ h4{
     word-break:break-word;
 }
 #term-emu i{
-    color:#81a2be;
+    color:#84c28e;
 }
 .sub-main{
     max-width:900px;
